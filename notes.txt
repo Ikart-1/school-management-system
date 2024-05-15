@@ -1,0 +1,36 @@
+create project vite :
+npm init vite
+
+
+
+composer create-project laravel/laravel school-management : for create project
+cd school-management
+php artisan serve :for run project
+
+composer require --dev laravel/breeze
+
+
+
+react : rfc is link ! in html
+login :
+shadcn , usform hook , validation with zod
+
+see the routes with breeze :
+php artisan route:list
+
+
+ {JSON.stringify(user)}
+
+
+
+
+
+
+
+**************************************************************************************************
+Docker :
+wsl --install 
+wsl --update  ( wsl.exe)
+
+
+**************************************************************************************************
